@@ -25,9 +25,4 @@ Below is the screenshot placeholder.
 > **Screenshot:**  
 ![alt text](image.png)
 ![alt text](image-1.png)
----
 
-### Commands I used
-
-```bash
-gemini models list
